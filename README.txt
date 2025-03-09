@@ -1,0 +1,1 @@
+This is a school project website created by Samrat Shrestha, Somin Piya and Rijohn Shrees.
