@@ -7,7 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 ::selection {
-	color : #DEF2F1;
+	color : Teal;
 	background-color: goldenrod;
 }
 
@@ -3171,7 +3171,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 5em 0 6em 0 ;
-		background-color: #003135;
+		background-color: LightSeaGreen;
 	}
 
 		#footer > .inner {
